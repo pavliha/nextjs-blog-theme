@@ -7,5 +7,4 @@ module.exports = {
   },
   plugins: [],
   darkMode: 'class', // or 'media' or 'class'
-  presets: [require('./src/utils/tailwind-preset')],
 };
